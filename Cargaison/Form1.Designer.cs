@@ -29,7 +29,7 @@ namespace CargaisonForm
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.text_distance = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.typeLabel = new System.Windows.Forms.Label();
             this.type = new System.Windows.Forms.ComboBox();
@@ -48,12 +48,13 @@ namespace CargaisonForm
             ((System.ComponentModel.ISupportInitialize)(this.list_marchandise)).BeginInit();
             this.SuspendLayout();
             // 
-            // textBox1
+            // text_distance
             // 
-            this.textBox1.Location = new System.Drawing.Point(118, 43);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(182, 31);
-            this.textBox1.TabIndex = 0;
+            this.text_distance.Location = new System.Drawing.Point(118, 43);
+            this.text_distance.Name = "text_distance";
+            this.text_distance.Size = new System.Drawing.Size(182, 31);
+            this.text_distance.TabIndex = 0;
+            this.text_distance.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label1
             // 
@@ -107,7 +108,7 @@ namespace CargaisonForm
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(650, 124);
+            this.label2.Location = new System.Drawing.Point(650, 109);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(72, 25);
             this.label2.TabIndex = 7;
@@ -130,7 +131,7 @@ namespace CargaisonForm
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(471, 124);
+            this.label3.Location = new System.Drawing.Point(471, 109);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(55, 25);
             this.label3.TabIndex = 9;
@@ -206,7 +207,7 @@ namespace CargaisonForm
             this.Controls.Add(this.type);
             this.Controls.Add(this.typeLabel);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.text_distance);
             this.Name = "distance";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -218,7 +219,7 @@ namespace CargaisonForm
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox text_distance;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label typeLabel;
         private System.Windows.Forms.ComboBox type;
