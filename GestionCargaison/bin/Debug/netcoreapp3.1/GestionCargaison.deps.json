@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GestionCargaison/1.0.0": {
+        "dependencies": {
+          "CargaisonForm": "1.0.0"
+        },
+        "runtime": {
+          "GestionCargaison.dll": {}
+        }
+      },
+      "CargaisonForm/1.0.0": {
+        "runtime": {
+          "CargaisonForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestionCargaison/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CargaisonForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

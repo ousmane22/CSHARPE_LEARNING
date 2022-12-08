@@ -1,0 +1,14 @@
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\obj\Debug\netcoreapp3.1\Fruit.csproj.AssemblyReference.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\obj\Debug\netcoreapp3.1\Fruit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\obj\Debug\netcoreapp3.1\Fruit.AssemblyInfoInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\obj\Debug\netcoreapp3.1\Fruit.AssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\obj\Debug\netcoreapp3.1\Fruit.csproj.CoreCompileInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\bin\Debug\netcoreapp3.1\Fruit.exe
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\bin\Debug\netcoreapp3.1\Fruit.deps.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\bin\Debug\netcoreapp3.1\Fruit.runtimeconfig.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\bin\Debug\netcoreapp3.1\Fruit.runtimeconfig.dev.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\bin\Debug\netcoreapp3.1\Fruit.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\bin\Debug\netcoreapp3.1\Fruit.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\obj\Debug\netcoreapp3.1\Fruit.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\obj\Debug\netcoreapp3.1\Fruit.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\HeritageAccebilitePolymorTabColl\Fruit\obj\Debug\netcoreapp3.1\Fruit.genruntimeconfig.cache

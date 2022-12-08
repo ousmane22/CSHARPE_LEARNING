@@ -1,0 +1,16 @@
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\bin\Debug\netcoreapp3.1\CargaisonForm.exe
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\bin\Debug\netcoreapp3.1\CargaisonForm.deps.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\bin\Debug\netcoreapp3.1\CargaisonForm.runtimeconfig.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\bin\Debug\netcoreapp3.1\CargaisonForm.runtimeconfig.dev.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\bin\Debug\netcoreapp3.1\CargaisonForm.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\bin\Debug\netcoreapp3.1\CargaisonForm.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.csproj.AssemblyReference.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.distance.resources
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.csproj.GenerateResource.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.AssemblyInfoInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.AssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.csproj.CoreCompileInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Cargaison\obj\Debug\netcoreapp3.1\CargaisonForm.genruntimeconfig.cache
