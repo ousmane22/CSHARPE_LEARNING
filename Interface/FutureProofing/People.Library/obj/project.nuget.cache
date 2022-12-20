@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j32cIpB9tDEYaQg/WHsySEM/h4fS6lxLxN15Bo3HVG26S0IhwoFoLVB/BvpY3Li2K7Ch3UT1v1Y6o+fO+N/ysQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OUSMANE\\Desktop\\Development\\Web\\C#\\Interface\\FutureProofing\\People.Library\\People.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

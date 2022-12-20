@@ -1,0 +1,12 @@
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\bin\Debug\net5.0\Common.deps.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\bin\Debug\net5.0\Common.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\bin\Debug\net5.0\ref\Common.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\bin\Debug\net5.0\Common.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\obj\Debug\net5.0\Common.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\obj\Debug\net5.0\ref\Common.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\Common\obj\Debug\net5.0\Common.pdb

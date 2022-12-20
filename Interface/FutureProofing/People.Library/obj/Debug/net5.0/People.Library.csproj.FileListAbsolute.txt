@@ -1,0 +1,15 @@
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\bin\Debug\net5.0\People.Library.deps.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\bin\Debug\net5.0\People.Library.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\bin\Debug\net5.0\ref\People.Library.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\bin\Debug\net5.0\People.Library.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\bin\Debug\net5.0\Common.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\bin\Debug\net5.0\Common.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.csproj.AssemblyReference.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.AssemblyInfoInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.AssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.csproj.CoreCompileInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.csproj.CopyComplete
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\ref\People.Library.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\FutureProofing\People.Library\obj\Debug\net5.0\People.Library.pdb
