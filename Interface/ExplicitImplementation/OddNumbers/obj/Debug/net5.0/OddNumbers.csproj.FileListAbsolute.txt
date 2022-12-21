@@ -1,0 +1,16 @@
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.exe
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.deps.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.runtimeconfig.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.runtimeconfig.dev.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\ref\OddNumbers.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\bin\Debug\net5.0\OddNumbers.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.csproj.AssemblyReference.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.AssemblyInfoInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.AssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\ref\OddNumbers.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Interface\ExplicitImplementation\OddNumbers\obj\Debug\net5.0\OddNumbers.genruntimeconfig.cache
