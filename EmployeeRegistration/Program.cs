@@ -63,7 +63,7 @@ namespace EmployeeRegistration
         {
             Console.WriteLine("Select an Employer");
             
-            for(int i = 1;i<=employees.Count; i++)
+            for(int i = 1;i<= employees.Count; i++)
             {
                 Console.WriteLine($"{i}. {employees[i -1].FirstName } {employees[i-1].LastName}");
             }

@@ -1,0 +1,14 @@
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\bin\Debug\netcoreapp3.1\WiredBrainCoffee.exe
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\bin\Debug\netcoreapp3.1\WiredBrainCoffee.deps.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\bin\Debug\netcoreapp3.1\WiredBrainCoffee.runtimeconfig.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\bin\Debug\netcoreapp3.1\WiredBrainCoffee.runtimeconfig.dev.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\bin\Debug\netcoreapp3.1\WiredBrainCoffee.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\bin\Debug\netcoreapp3.1\WiredBrainCoffee.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\netcoreapp3.1\WiredBrainCoffee.csproj.AssemblyReference.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\netcoreapp3.1\WiredBrainCoffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\netcoreapp3.1\WiredBrainCoffee.AssemblyInfoInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\netcoreapp3.1\WiredBrainCoffee.AssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\netcoreapp3.1\WiredBrainCoffee.csproj.CoreCompileInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\netcoreapp3.1\WiredBrainCoffee.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\netcoreapp3.1\WiredBrainCoffee.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WiredBrainCoffee\WiredBrainCoffee\obj\Debug\netcoreapp3.1\WiredBrainCoffee.genruntimeconfig.cache
