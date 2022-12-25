@@ -1,0 +1,14 @@
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\bin\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.exe
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\bin\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.deps.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\bin\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.runtimeconfig.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\bin\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.runtimeconfig.dev.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\bin\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\bin\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\obj\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.csproj.AssemblyReference.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\obj\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\obj\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.AssemblyInfoInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\obj\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.AssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\obj\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.csproj.CoreCompileInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\obj\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.dll
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\obj\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\C#\Generics\WireBraindCoffee.StorageApp\WireBraindCoffee.StorageApp\obj\Debug\netcoreapp3.1\WireBraindCoffee.StorageApp.genruntimeconfig.cache

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace WiredBrainCoffee
 {
@@ -12,14 +13,14 @@ namespace WiredBrainCoffee
 
         private static void StackString()
         {
-            var stack = new StackSimple<string>();
+            var stack = new Stack<string>();
             stack.Push("pape diouf");
             stack.Push("ousmane ndiaye");
         }
 
         private static void StackDouble()
         {
-            var stack = new StackSimple<double>();
+            var stack = new Stack<double>();
             stack.Push(1.3);
             stack.Push(2.9);
             stack.Push(20.2);
