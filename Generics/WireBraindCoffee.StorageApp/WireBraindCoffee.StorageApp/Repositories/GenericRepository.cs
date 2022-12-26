@@ -5,15 +5,22 @@ using WireBraindCoffee.StorageApp.Entities;
 
 namespace WireBraindCoffee.StorageApp.Repositories
 {
-  public  class GenericRepository<T>
+  public  class GenericRepository<T,Tkey>
     {
-        protected readonly List<T> _items = new List<T>();
+        public Tkey  Key { get; set; }
+
+        private readonly List<T> _items = new List<T>();
 
         public void Add(T item)
         {
             _items.Add(item);
         }
 
+
+        public void Remove(T item)
+        {
+            _items.Remove(item);
+        }
         public void Save()
         {
             foreach(var item in _items)
@@ -23,11 +30,11 @@ namespace WireBraindCoffee.StorageApp.Repositories
         }
     }
 
-    public class GenericRepositoryWithRemeove<T> : GenericRepository<T>
+    /*public class GenericRepositoryWithRemeove<T> : GenericRepository<T>
     {
         public void Remove(T item)
         {
             _items.Remove(item);
         }
-    }
+    }*/
 }
