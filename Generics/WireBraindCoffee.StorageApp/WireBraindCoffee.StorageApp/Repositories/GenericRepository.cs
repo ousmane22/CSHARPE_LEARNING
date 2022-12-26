@@ -6,7 +6,7 @@ using WireBraindCoffee.StorageApp.Entities;
 
 namespace WireBraindCoffee.StorageApp.Repositories
 {
-  public  class GenericRepository<T> where T:EntityBase
+  public  class GenericRepository<T> where T:EntityBase,IEntity
     {
         
 
