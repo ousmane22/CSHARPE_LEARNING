@@ -1,13 +1,13 @@
 ﻿namespace WireBraindCoffee.StorageApp.Entities
 {
-    public class Organization
+    public class Organization:EntityBase
     {
-        public int ID { get; set; }
+
         public string? Name { get; set; }
 
-        public override string ToString() => $"Id :{ID} ,Name: {Name}";
-
+        public override string ToString() => $"Id :{Id} ,Name: {Name}";
 
     }
+    
 
 }

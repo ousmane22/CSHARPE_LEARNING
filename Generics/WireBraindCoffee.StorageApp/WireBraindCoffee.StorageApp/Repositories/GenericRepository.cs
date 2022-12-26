@@ -1,18 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using WireBraindCoffee.StorageApp.Entities;
 
 namespace WireBraindCoffee.StorageApp.Repositories
 {
-  public  class GenericRepository<T,Tkey>
+  public  class GenericRepository<T> where T:EntityBase
     {
-        public Tkey  Key { get; set; }
+        
 
         private readonly List<T> _items = new List<T>();
 
+        public T GetId(int id)
+        {
+            return _items.Single(item => item.Id == id);
+        }
+
         public void Add(T item)
         {
+            item.Id = _items.Count + 1;
             _items.Add(item);
         }
 
