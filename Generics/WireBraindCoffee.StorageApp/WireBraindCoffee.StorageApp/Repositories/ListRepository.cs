@@ -12,6 +12,11 @@ namespace WireBraindCoffee.StorageApp.Repositories
 
         private readonly List<T> _items = new List<T>();
 
+
+        public IEnumerable<T> GetAll()
+        {
+            return _items;
+        }
         public T GetId(int id)
         {
             return _items.Single(item => item.Id == id);
@@ -35,6 +40,8 @@ namespace WireBraindCoffee.StorageApp.Repositories
                 Console.WriteLine(item);
             }
         }
+
+      
     }
 
     /*public class GenericRepositoryWithRemeove<T> : GenericRepository<T>

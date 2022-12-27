@@ -15,11 +15,23 @@ namespace WireBraindCoffee.StorageApp
             var organization = new SqlRepository<Organization>(new StorageAppDbContext());
             AddOrganization(organization);
 
+            getAll(em);
+
             GetEmployeeById(em);
             Console.ReadLine();
 
 
 
+        }
+
+        private static void getAll(IRepository<Employee> em)
+        {
+            var empl = em.GetAll();
+
+            foreach (var item in empl)
+            {
+                Console.WriteLine(item);
+            }
         }
 
         private static void GetEmployeeById(IRepository<Employee> em)

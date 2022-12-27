@@ -18,6 +18,11 @@ namespace WireBraindCoffee.StorageApp.Repositories
             _dbSet = _dbContext.Set<T>();
         }
 
+        public IEnumerable<T> GetAll()
+        {
+            return _dbSet;
+        }
+
         public T GetId(int id)
         {
             return _dbSet.Find(id);
