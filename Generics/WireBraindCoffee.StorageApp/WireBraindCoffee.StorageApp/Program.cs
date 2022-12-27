@@ -1,4 +1,5 @@
 ﻿using System;
+using WireBraindCoffee.StorageApp.Data;
 using WireBraindCoffee.StorageApp.Entities;
 using WireBraindCoffee.StorageApp.Repositories;
 
@@ -8,10 +9,10 @@ namespace WireBraindCoffee.StorageApp
     {
         static void Main(string[] args)
         {
-            var em = new ListRepository<Employee>();
+            var em = new SqlRepository<Employee>(new StorageAppDbContext());
                 AddEmployees(em);
 
-            var organization = new ListRepository<Organization>();
+            var organization = new SqlRepository<Organization>(new StorageAppDbContext());
             AddOrganization(organization);
 
             GetEmployeeById(em);
@@ -21,20 +22,20 @@ namespace WireBraindCoffee.StorageApp
 
         }
 
-        private static void GetEmployeeById(ListRepository<Employee> em)
+        private static void GetEmployeeById(IRepository<Employee> em)
         {
             var employee = em.GetId(1);
             Console.WriteLine($"Emplyee with ID 1 {employee.FirstName}");
         }
 
-        private static void AddEmployees(ListRepository<Employee> em)
+        private static void AddEmployees(IRepository<Employee> em)
         {
             em.Add(new Employee { FirstName = "Ousmane Ndiaye" });
             em.Add(new Employee { FirstName = "Pape Diouf" });
             em.Save();
         }
 
-        private static void AddOrganization(ListRepository<Organization> organization)
+        private static void AddOrganization(IRepository<Organization> organization)
         {
             organization.Add(new Organization { Name = "Ousmane Tech" });
             organization.Save();

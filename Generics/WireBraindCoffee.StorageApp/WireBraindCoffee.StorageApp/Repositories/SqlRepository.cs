@@ -7,7 +7,7 @@ using WireBraindCoffee.StorageApp.Entities;
 
 namespace WireBraindCoffee.StorageApp.Repositories
 {
-    public class SqlRepository<T> where T : class ,IEntity
+    public class SqlRepository<T> : IRepository<T> where T : class, IEntity
     {
         private readonly DbContext _dbContext;
         private readonly DbSet<T> _dbSet;
