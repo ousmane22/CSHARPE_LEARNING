@@ -177,11 +177,13 @@ namespace LINQSamples
     {
       if (UseQuerySyntax) {
         // Query Syntax
-
+        Products = (from p in Products 
+                    orderby p.Name
+                    select p).ToList();
       }
       else {
         // Method Syntax
-
+        Products = Products.OrderBy(p=>p.Name).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
