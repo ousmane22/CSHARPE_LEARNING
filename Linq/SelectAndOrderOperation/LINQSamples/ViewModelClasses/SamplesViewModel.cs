@@ -96,12 +96,25 @@ namespace LINQSamples
     public void GetSpecificColumns()
     {
       if (UseQuerySyntax) {
-        // Query Syntax
-       
+                // Query Syntax
+
+                Products = (from prod in Products
+                            select new Product
+                            {
+                                ProductID = prod.ProductID,
+                                Name = prod.Name,
+                                Size    = prod.Size,
+                            }).ToList();
       }
       else {
-        // Method Syntax
-       
+                // Method Syntax
+
+                Products = (Products.Select(prod => new Product
+                {
+                    ProductID = prod.ProductID,
+                    Name = prod.Name,
+                    Size = prod.Size
+                }).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
