@@ -218,13 +218,17 @@ namespace LINQSamples
     public void OrderByTwoFields()
     {
       if (UseQuerySyntax) {
-        // Query Syntax
+                // Query Syntax
+                Products = (from prod in Products
+                            orderby prod.Name descending,prod.Color
+                            select prod).ToList();
 
-      }
+            }
       else {
-        // Method Syntax
-
-      }
+                // Method Syntax
+                Products = Products.OrderByDescending(prod => prod.Name)
+                      .ThenBy(prod=>prod.Color).ToList();
+            }
 
       ResultText = $"Total Products: {Products.Count}";
     }
