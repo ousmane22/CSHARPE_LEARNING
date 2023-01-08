@@ -178,12 +178,12 @@ namespace LINQSamples
       if (UseQuerySyntax) {
         // Query Syntax
         Products = (from p in Products 
-                    orderby p.Name
+                    orderby p.Name descending
                     select p).ToList();
       }
       else {
         // Method Syntax
-        Products = Products.OrderBy(p=>p.Name).ToList();
+        Products = Products.OrderByDescending(p=>p.Name).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
@@ -197,12 +197,14 @@ namespace LINQSamples
     public void OrderByDescending()
     {
       if (UseQuerySyntax) {
-        // Query Syntax
-
+                // Query Syntax
+                Products = (from prod in Products
+                            orderby prod.Name descending
+                            select prod).ToList();
       }
       else {
-        // Method Syntax
-
+                // Method Syntax
+                Products = Products.OrderByDescending(prod => prod.Name).ToList();
       }
 
       ResultText = $"Total Products: {Products.Count}";
