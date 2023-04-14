@@ -26,3 +26,5 @@ C:\Users\OUSMANE\Desktop\Development\Web\C#\ASP DOT NET\NdiayeShop\obj\Debug\net
 C:\Users\OUSMANE\Desktop\Development\Web\C#\ASP DOT NET\NdiayeShop\obj\Debug\net6.0\ref\NdiayeShop.dll
 C:\Users\OUSMANE\Desktop\Development\Web\C#\ASP DOT NET\NdiayeShop\obj\Debug\net6.0\NdiayeShop.RazorAssemblyInfo.cache
 C:\Users\OUSMANE\Desktop\Development\Web\C#\ASP DOT NET\NdiayeShop\obj\Debug\net6.0\NdiayeShop.RazorAssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\C#\ASP DOT NET\NdiayeShop\bin\Debug\net6.0\libman.json
+C:\Users\OUSMANE\Desktop\Development\Web\C#\ASP DOT NET\NdiayeShop\bin\Debug\net6.0\NdiayeShop.staticwebassets.runtime.json
