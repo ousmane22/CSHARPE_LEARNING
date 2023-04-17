@@ -16,12 +16,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\OUSMANE\Desktop\Development\Web\C#\ASP DOT NET\NdiayeShop
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/OUSMANE/Desktop/Development/Web/C\#/ASP DOT NET/NdiayeShop/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OUSMANE/Desktop/Development/Web/C\#/ASP DOT NET/NdiayeShop/Views/Pie/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/OUSMANE/Desktop/Development/Web/C\#/ASP DOT NET/NdiayeShop/Views/Pie/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGllXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/OUSMANE/Desktop/Development/Web/C\#/ASP DOT NET/NdiayeShop/Views/Shared/_Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/OUSMANE/Desktop/Development/Web/C\#/ASP DOT NET/NdiayeShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OUSMANE/Desktop/Development/Web/C\#/ASP DOT NET/NdiayeShop/Views/Shared/_PieCard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QaWVDYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/OUSMANE/Desktop/Development/Web/C\#/ASP DOT NET/NdiayeShop/Views/ShoppingCart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcHBpbmdDYXJ0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/OUSMANE/Desktop/Development/Web/C\#/ASP DOT NET/NdiayeShop/Views/_ViewImports.cshtml]

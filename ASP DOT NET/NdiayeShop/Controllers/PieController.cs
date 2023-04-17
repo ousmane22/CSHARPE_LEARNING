@@ -25,5 +25,15 @@ namespace NdiayeShop.Controllers
 
          return View(pieListViewModel);
         }
+
+
+        public IActionResult Detail(int id)
+        {
+            var pie = _pieRepository.GetPieById(id);
+            if (pie == null)
+                return NotFound();
+            else
+                return View(pie);
+        }
     }
 }

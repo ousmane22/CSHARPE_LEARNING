@@ -9,7 +9,7 @@
             _ndiayeShopDbContext = ndiayeShopDbContext;
         }
 
-        public IEnumerable<Category> Categories
+        public IEnumerable<Category> AllCategories
         {
             get
             {
